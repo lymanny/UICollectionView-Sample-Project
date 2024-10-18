@@ -12,7 +12,7 @@ This project demonstrates how to manage `UICollectionView` in iOS, covering feat
 - **Add, Edit, Delete Details**: Demonstrates how to add, edit, and delete items in a collection view.
 - **Move Cells**: Shows how to reorder cells by dragging.
 
-<img src="https://github.com/user-attachments/assets/668cc222-426a-405a-a747-e152b4b842c3" alt="Book Collection View" width="400"/>
+<img src="https://github.com/user-attachments/assets/49687918-7163-4377-a4b7-b528ce0066e8" alt="Book Collection View" width="400"/>
 
 ### Sample Project 2 - Swipe Cards with `UICollectionView`
 
@@ -21,7 +21,7 @@ This project demonstrates how to manage `UICollectionView` in iOS, covering feat
 - **Snap-on-Scroll Behavior**: Adds a snap effect when scrolling between cards.
 - **Card Scaling on Scroll**: Dynamically scales the size of cards as they are scrolled into focus.
 
-<img src="https://github.com/user-attachments/assets/4e0b1a25-5546-4ff0-b2a8-db964711acad" alt="Card Collection View" width="400"/>
+<img src="https://github.com/user-attachments/assets/c5053b62-4ff0-454f-8651-e10213857856" alt="Card Collection View" width="400"/>
 
 ## Usage 🛠️
 
